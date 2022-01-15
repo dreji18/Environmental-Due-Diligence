@@ -1,8 +1,20 @@
+## EnvBert - BERT for Environment Data
+
 EnvBert is an easy-to-use Python library built on top of Bert models to organise environmental data in environmental site assessments.
+
+<a href="https://pypi.org/project/EnvBert/">
+    <img alt="CI" src="https://img.shields.io/badge/pypi-v0.0.5-orange">
+</a>
+
+| Feature  | Output  |
+|---|---|
+| EDD Prediction | Categorizes the Environment data under different classes |
+| Relevancy | Classify whether it's relevant or not for the Environment domain |
+| Ranking | Relevance probability is returned against the predicted classes |
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install EnvBert
 
 ```bash
 pip install EnvBert
@@ -30,4 +42,4 @@ This Package is part of the Research topic "AI for Environment Due-Diligence" co
 Please star at: AI for Environment Due-Diligence, (2022), GitHub repository, https://github.com/dreji18/environmental-due-diligence
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) License
