@@ -1,2 +1,3 @@
-# environmental-due-diligence
-An Environmental due diligence classification model, trained on customized environmental Dataset to detect contamination and remediation activities (both prevailing as well as planned) as a part of site assessment process. This model can identify the source of contamination, the extent of contamination, the types of contaminants present at the site, the flow of contaminants and their interaction with ground water, surface water and other surrounding water bodies .
+# EnvBert
+
+###########
