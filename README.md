@@ -4,7 +4,7 @@ EnvBert is an easy-to-use Python library built on top of Bert models to identify
 
 [![Downloads](https://static.pepy.tech/personalized-badge/envbert?period=total&units=international_system&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/envbert)
 <a href="https://pypi.org/project/EnvBert/">
-    <img alt="CI" src="https://img.shields.io/badge/pypi-v0.0.6-orange">
+    <img alt="CI" src="https://img.shields.io/badge/pypi-v0.3.8-orange">
 </a>
 
 | Feature  | Output  |
