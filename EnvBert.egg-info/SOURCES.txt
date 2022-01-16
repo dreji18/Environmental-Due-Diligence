@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+EnvBert/__init__.py
+EnvBert/due_diligence.py
+EnvBert.egg-info/PKG-INFO
+EnvBert.egg-info/SOURCES.txt
+EnvBert.egg-info/dependency_links.txt
+EnvBert.egg-info/requires.txt
+EnvBert.egg-info/top_level.txt

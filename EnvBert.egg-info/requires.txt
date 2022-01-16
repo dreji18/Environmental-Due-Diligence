@@ -1,0 +1,6 @@
+numpy>=1.19.5
+transformers>=4.6.1
+tensorflow>=2.1.0
+sklearn
+pandas
+sentence_transformers>=2.1.0
