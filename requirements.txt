@@ -4,3 +4,4 @@ sentence_transformers==2.1.0
 sklearn==0.24.1
 pandas 
 sentence_transformers==2.1.0
+tensorflow==2.4.0
