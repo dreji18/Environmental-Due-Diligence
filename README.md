@@ -84,9 +84,7 @@ df['prediction'] = finetuned_model.df(df, 'Sentence') #df is the dataframe and '
 ```
 
 ## About
-This Package is part of the Research topic "AI for Environment Due-Diligence" conducted by Afreen Aman, Deepak John Reji. If you use this work (code, model or dataset),
-
-Please cite us and star at: AI for Environment Due-Diligence, (2022), GitHub repository, https://github.com/dreji18/environmental-due-diligence
+This Package is part of the Research topic "AI for Environment Due-Diligence" conducted by Afreen Aman, Deepak John Reji. If you use this work (code, model or dataset), Please cite us and star at: AI for Environment Due-Diligence, (2022), GitHub repository, https://github.com/dreji18/environmental-due-diligence
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) License
