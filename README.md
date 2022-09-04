@@ -1,5 +1,7 @@
 ## EnvBert - BERT for Environment Domain
 
+<img align="left" width="33%" src="https://user-images.githubusercontent.com/49631017/188302857-6b6fe277-7062-46fb-b473-d15827168e5a.png">
+
 EnvBert is an easy-to-use Python library built on top of Bert models to identify essential environmental data as a part of due diligence in environmental site assessments.
 
 [![Downloads](https://static.pepy.tech/personalized-badge/envbert?period=total&units=international_system&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/envbert)
